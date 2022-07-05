@@ -1,1 +1,1 @@
-script dynamic
+infinity
