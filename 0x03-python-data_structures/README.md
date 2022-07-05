@@ -1,1 +1,1 @@
-find max 
+only by 2
