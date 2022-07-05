@@ -1,1 +1,1 @@
-delet all
+switch
