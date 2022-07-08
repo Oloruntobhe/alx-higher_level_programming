@@ -1,1 +1,1 @@
-sample 
+read and sample 
