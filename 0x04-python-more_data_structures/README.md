@@ -1,1 +1,1 @@
-print sorted
+simple delet 
