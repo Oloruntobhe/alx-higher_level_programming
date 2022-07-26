@@ -1,1 +1,1 @@
-simple reactangle
+rectangle
